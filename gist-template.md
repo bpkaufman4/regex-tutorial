@@ -1,6 +1,4 @@
-# Title (replace with your title)
-
-Explaining The Email Matching Regular Expression
+# Email Matching Regex Tutorial
 
 ## Summary
 
